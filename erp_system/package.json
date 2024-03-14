@@ -1,0 +1,31 @@
+{
+    "name": "erp-system",
+    "version": "1.0.0",
+    "description": "A simplified interface for an ERP system",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test --watchAll=false"
+    },
+    "keywords": [
+      "react",
+      "erp",
+      "dashboard",
+      "products",
+      "orders"
+    ],
+    "dependencies": {
+      "@testing-library/jest-dom": "^5",
+      "@testing-library/react": "^13",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.3.0",
+      "react-scripts": "^5.0.1"
+    },
+    "devDependencies": {
+      "jest": "^28.0.1"
+    }
+  }
+  
